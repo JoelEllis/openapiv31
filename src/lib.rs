@@ -26,6 +26,7 @@ mod status_code;
 mod tag;
 mod util;
 mod variant_or;
+mod webhooks;
 
 pub use self::callback::*;
 pub use self::components::*;
@@ -55,3 +56,4 @@ pub use self::status_code::*;
 pub use self::tag::*;
 pub use self::util::*;
 pub use self::variant_or::*;
+pub use self::webhooks::*;
