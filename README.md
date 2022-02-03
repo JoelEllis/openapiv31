@@ -1,5 +1,7 @@
 # OpenAPI v3 ![gh actions](https://github.com/JoelEllis/openapiv31/actions/workflows/rust.yml/badge.svg)
 
+**NOTE: This is an incomplete implementation, and a work in progress. It does not follow 3.1 fully compliantly yet.**
+
 This crate provides data structures that represent the [OpenAPI v3.1.x specification](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.1.0.md). It uses the [Schemars](https://github.com/GREsau/schemars) crate for defining JSON schemas.
 
 ## Example
